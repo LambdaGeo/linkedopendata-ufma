@@ -33,3 +33,7 @@ vagrant reload
  https://forge.puppet.com/puppet/archive
 
  puppet module install lwf-remote_file --version 1.1.3
+ 
+ 
+ erro com /dev/vboxdrv does not exist
+ dpkg-reconfigure virtualbox-dkms
