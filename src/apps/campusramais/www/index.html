@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+<script type="text/javascript" >
+    $(function(){
+     
+     $("#buscar").click( function () {
+      $.getJSON(
+      "https://script.google.com/macros/s/AKfycbzyE1ASRvk2-beaEyiNAnjclQ6a1bKfTZ05AXHDaiKQplHlpeXc/exec",
+        {query:$.trim($("#txt").val()) },
+        function (response) { 
+          var $ramais = $("#lista")
+          $("#lista").html("")
+          $.each (response, function (i, item) {
+
+            console.log(item)
+            var $li = $("<li/>",{
+            class:"ui-li-static ui-body-inherit ui-last-child"})
+            var $link = $("<a/>", 
+              {text:item.description+" ("+item.number+")",
+                "href":"tel:"+item.number,
+              "class":"ui-link ui-btn ui-icon-phone ui-btn-icon-left ui-shadow ui-corner-all",
+              "data-role":"button",
+              "data-icon":"phone"})
+            //$link.appendTo($li)
+            $link.appendTo($ramais)
+          })
+        })
+    })
+    })
+    
+    
+    </script>
+</head>
+<body>
+
+<div data-role="page" id="pageone" >
+
+  <div data-role="header" data-position="fixed" data-theme="b">
+  <h1>Busca Ramais</h1>
+  </div>
+
+  <div data-role="main" class="ui-content" data-position="fixed">
+
+
+
+
+<input type="text" name="name" id="txt" value="" data-mini="true" /><button id="buscar" data-theme="b">Buscar</button>
+
+</div>
+<div>
+    <h2>Lista de ramais:</h2>
+    <ul data-role="listview" id="lista">
+  
+    </ul>
+  </div>
+</div>
+
+</body>
+</html>
+

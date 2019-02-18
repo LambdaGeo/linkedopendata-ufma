@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:ns="http://linkedscience.org/teach/ns"
+	xmlns:aiiso="http://purl.org/vocab/aiiso/schema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:purl="http://purl.org/dc/terms/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454326">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS BIOLOGICAS / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1096924">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454326">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454300">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS BIOLOGICAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454327">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS BIOLOGICAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454299">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS BIOLOGICAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454314">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454317">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape406813">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454317">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406813"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454318">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454316">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454313">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454319">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406813"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454312">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454315">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS EXATAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406813"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11353773">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS SOCIAIS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11353754">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS SOCIAIS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1652">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape271722">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1652">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13583080">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1653">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454250">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1654">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15589059">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15588520">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15589016">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454329">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454249">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1655">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1656">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1657">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1658">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15588982">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271722"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454244">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15025963">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15618592">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1281552">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15618592">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1281552"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454251">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14553665">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1281552"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1629">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1165322">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1629">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11353896">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1630">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1631">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1659">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11353892">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1165322"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15551428">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / ASEI</courseTitle>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15629975">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1090352">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15629975">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1090352"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15672322">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1090352"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15629935">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1090352"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454322">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454252">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454321">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454324">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15630096">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1090352"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454320">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15595542">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407506">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15595542">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407506"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15158367">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTÓRIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592991">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTÓRIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407506"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454304">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454309">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1637">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTÓRIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape271716">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1637">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape271716"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454303">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454306">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454307">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454302">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTORIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454291">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454292">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454294">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454255">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454262">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1878228">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454262">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454263">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454245">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15463683">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454332">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454248">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454246">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454254">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454256">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454261">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454257">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454295">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15817320">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1627">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2201415">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1627">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2201415"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1628">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2201415"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1626">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2201415"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15528402">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2201415"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15805906">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / ESPANHOL / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2201415"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15158132">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15675457">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592238">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / INGLÊS / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape406561">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592238">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406561"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592174">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406561"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592004">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406561"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15592208">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406561"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1638">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / INGLÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape406561"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454259">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - PORTUGUÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454258">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / PORTUGUÊS / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1878228"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454282">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454286">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454284">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454298">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1645">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1055168">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1645">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15547380">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1646">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15529753">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15546447">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454331">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454297">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1647">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454283">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15547493">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMÁTICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1055168"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454287">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454285">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Exatas e da Terra</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454266">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454267">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15819249">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454270">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1622">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1913621">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1622">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/9138115">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2412979">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/9138115">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13583085">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454268">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1560">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1558">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15548246">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15610741">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1550">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1551">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1623">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1624">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1554">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11353886">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454288">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1552">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1559">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454276">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15548898">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1625">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454280">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1561">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454269">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1557">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1553">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454277">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454279">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454271">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/1555">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412979"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454278">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1096924"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13583091">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA - PARFOR / ASEI</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1913621"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11534159">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIA E TECNOLOGIA / CAMPUS BALSAS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2076594">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11534159">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2076594"/>
+	<dc:subject>Multidisciplinar</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15047093">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS / CAMPUS III</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1806250">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15047093">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1806250"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85790">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / CAMPUS III</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1806250"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15047094">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS / CAMPUS III</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape6406742">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15047094">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape6406742"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16037794">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS III</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape6406742"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85801">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - FÍSICA / CAMPUS III</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape6406742"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12454272">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO DO CAMPO / CAMPUS III</courseTitle>
+	<dc:subject>Ciências Agrárias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14438460">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - PORTUGUÊS / CAMPUS III</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1675799">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14438460">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1675799"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11547416">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - FILOSOFIA / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape3336918">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11547416">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3336918"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85807">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - HISTÓRIA / CAMPUS V</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3336918"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030327">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2886661">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030327">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2886661"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85824">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1820607">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85824">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1820607"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14437853">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2198290">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14437853">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2198290"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13947399">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENFERMAGEM / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2163712">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13947399">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2163712"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15458361">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA DA PESCA / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2263278">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15458361">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2263278"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12125250">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MEDICINA / CAMPUS V</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape3330747">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12125250">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3330747"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85821">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - GEOGRAFIA / CAMPUS VI</courseTitle>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85773">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - QUÍMICA / CAMPUS VI</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1698711">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85773">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1698711"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85815">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - HISTÓRIA / CAMPUS VII</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2781031">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85815">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2781031"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030384">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS / CAMPUS VII</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2015863">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030384">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2015863"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85809">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS VII</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2015863"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15505671">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / CAMPUS VII</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1818204">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15505671">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1818204"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030457">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS / CSB</courseTitle>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85775">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / CSB</courseTitle>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030493">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS / CSB</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1798240">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030493">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1798240"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030505">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LINGUAGENS E CÓDIGOS / CSB</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2025870">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030505">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2025870"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85765">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LINGUAGENS E CÓDIGOS - LÍNGUA PORTUGUESA / CSB</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2025870"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/11548672">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LINGUAGENS E CÓDIGOS - MÚSICA / CSB</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2025870"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15457863">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE TURISMO / CSB</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1890279">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15457863">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1890279"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85833">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE AGRONOMIA / DCCAA</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2054987">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85833">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2054987"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85777">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS BIOLÓGICAS / DCCAA</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2560581">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85777">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2560581"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13947226">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA AGRÍCOLA / DCCAA</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2108468">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13947226">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2108468"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85779">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ZOOTECNIA / DCCAA</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1615266">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85779">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1615266"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85800">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS BIOLOGICAS / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1856471">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85800">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1856471"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85778">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO FISICA / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2207618">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85778">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2207618"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14604236">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCAÇÃO FÍSICA - / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2042280">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14604236">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2042280"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85789">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENFERMAGEM / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1032169">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85789">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1032169"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85827">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FARMÁCIA / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2171058">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85827">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2171058"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85814">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MEDICINA / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407613">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85814">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407613"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85808">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE NUTRIÇÃO / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2572858">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85808">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2572858"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85828">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE OCEANOGRAFIA / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1978142">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85828">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1978142"/>
+	<dc:subject>Ciências Biológicas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85783">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ODONTOLOGIA / DCCBS/CCBS</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2214101">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85783">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2214101"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85766">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIA DA COMPUTAÇÃO / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1569024">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85766">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1569024"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/10816685">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIA E TECNOLOGIA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1053572">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/10816685">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1053572"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85819">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE DESENHO INDUSTRIAL / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1062091">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85819">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1062091"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85787">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE DESIGN / DCCET/CCET</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1062091"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16416422">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA CIVIL / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2227711">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16416422">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2227711"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16822859">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA DA COMPUTAÇÃO / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1657792">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16822859">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1657792"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85785">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA ELÉTRICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1651797">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85785">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1651797"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16822856">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA MECÂNICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1716945">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/16822856">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1716945"/>
+	<dc:subject>Engenharias</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85769">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA QUÍMICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2125704">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85769">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2125704"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85784">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FÍSICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1286121">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85784">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1286121"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85823">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MATEMATICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1280789">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85823">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1280789"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85771">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE QUIMICA / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2167807">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85771">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2167807"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85830">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE QUIMICA INDUSTRIAL / DCCET/CCET</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2221449">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85830">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2221449"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85794">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ARTES VISUAIS / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2157533">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85794">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2157533"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85796">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS SOCIAIS / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407302">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85796">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407302"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85831">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE EDUCACAO ARTISTICA / DCCH</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2157533"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14947385">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ESTUDOS AFRICANOS E AFRO-BRASILEIROS / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1796974">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14947385">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1796974"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85829">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407179">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85829">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407179"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14546335">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE FILOSOFIA LICENCIATURA - EAD / DCCH</courseTitle>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85798">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE GEOGRAFIA / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2420440">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85798">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2420440"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85811">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HISTÓRIA / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407174">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85811">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407174"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85834">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1669787">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85834">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1669787"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85770">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - ESPANHOL / DCCH</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1669787"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85813">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - FRANCÊS / DCCH</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1669787"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85793">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS - INGLÊS / DCCH</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1669787"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14560872">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE LETRAS/LIBRAS / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2892932">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/14560872">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2892932"/>
+	<dc:subject>Lingüística, Letras e Artes</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85782">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MÚSICA / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1203263">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85782">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1203263"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85820">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PSICOLOGIA / DCCH</courseTitle>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85795">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE TEATRO / DCCH</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape3451753">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85795">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3451753"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030282">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS / DCCHNST</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3336918"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85763">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ADMINISTRAÇÃO / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2940522">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85763">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2940522"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85812">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE BIBLIOTECONOMIA / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape3046127">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85812">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3046127"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85772">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS CONTABEIS / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1805303">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85772">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1805303"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85758">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS ECONÔMICAS / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2412827">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85758">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2412827"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85806">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS IMOBILIÁRIAS / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1481858">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85806">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1481858"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85803">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE COMUNICAÇÃO SOCIAL / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape3319548">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85803">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3319548"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85804">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE COMUNICACAO SOCIAL - JORNALISMO / DCCSO</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3319548"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85832">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE COMUNICACAO SOCIAL - RÁDIO E TV / DCCSO</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3319548"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85786">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE COMUNICAÇÃO SOCIAL - RELAÇÕES PÚBLICAS / DCCSO</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape3319548"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85780">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE DIREITO / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape407240">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85780">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape407240"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85816">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE HOTELARIA / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2647378">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85816">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2647378"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85817">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2351021">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85817">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2351021"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85822">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE SERVIÇO SOCIAL / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2433735">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85822">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2433735"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85818">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE TURISMO / DCCSO</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2575435">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85818">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2575435"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85802">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIENCIAS CONTABEIS / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2336920">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85802">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2336920"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030425">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1455137">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/15030425">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1455137"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85826">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / DCCSST</courseTitle>
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1455137"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85776">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1117824">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85776">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1117824"/>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85791">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE COMUNICACÃO SOCIAL - JORNALISMO / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2325704">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85791">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2325704"/>
+	<dc:subject>Ciências Sociais Aplicadas</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85810">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE DIREITO / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1228962">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85810">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1228962"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85797">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENFERMAGEM / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape1562670">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85797">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape1562670"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85761">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ENGENHARIA DE ALIMENTOS / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2062011">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85761">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2062011"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12125248">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE MEDICINA / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2104291">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/12125248">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2104291"/>
+	<dc:subject>Ciências da Saúde</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85781">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE PEDAGOGIA / DCCSST</courseTitle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/people/siape2561518">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Teacher"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/85781">
+	<aiiso:responsibilityOf rdf:resource="http://lud.ufma.br/people/siape2561518"/>
+	<dc:subject>Nenhum conteúdo disponível até o momento</dc:subject>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lud.ufma.br/course/13720627">
+	<rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+	<courseTitle xmlns="http://linkedscience.org/teach/ns#">CURSO DE ARTES VISUAIS / NEAD</courseTitle>
+	<dc:subject>Ciências Humanas</dc:subject>
+</rdf:Description>
+
+</rdf:RDF>
