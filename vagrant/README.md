@@ -18,8 +18,25 @@ cd apache-jena-fuseki-3.10.0
 ./fuseki start
 
 
+sudo ./fuseki-server --update --mem /ds
+
+
+https://jena.apache.org/documentation/fuseki2/soh.html
+
+
 /usr/local/apache-jena-fuseki-3.10.0/fuseki-server --update --mem /ds
 /usr/local/apache-jena-fuseki-3.10.0/bin/s-put http://localhost:3030/ds/data default /vagrant/rdf/cursos.rdf
+
+
+
+sed -i 's/TEXT_TO_BE_REPLACED/mudou/g' README.md
+
+configurando
+
+sudo sed -i 's/\/$\/\*\* = localhostFilter/#\/$\/\*\* = localhostFilter/g' shiro.ini
+
+
+grep  '#/\$/\*\* = localhostFilter' shiro.ini
 
 
 vagrant reload
