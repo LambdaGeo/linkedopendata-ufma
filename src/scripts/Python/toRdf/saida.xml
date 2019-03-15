@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:teach="http://linkedscience.org/teach/ns#"
+>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030384">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS / CAMPUS VII</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15588982">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454326">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS BIOLOGICAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15817320">
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15158132">
+    <teach:courseTitle>CURSO DE LETRAS - INGLÊS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85801">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - FÍSICA / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85784">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FÍSICA / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15595542">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454287">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85773">
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - QUÍMICA / CAMPUS VI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454299">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS BIOLOGICAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11547416">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - FILOSOFIA / CAMPUS V</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85766">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIA DA COMPUTAÇÃO / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15675457">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS - INGLÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85834">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85771">
+    <teach:courseTitle>CURSO DE QUIMICA / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13947226">
+    <teach:courseTitle>CURSO DE ENGENHARIA AGRÍCOLA / DCCAA</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15819249">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85826">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / DCCSST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85769">
+    <teach:courseTitle>CURSO DE ENGENHARIA QUÍMICA / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454268">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1628">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85803">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE COMUNICAÇÃO SOCIAL / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85831">
+    <teach:courseTitle>CURSO DE EDUCACAO ARTISTICA / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85765">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LINGUAGENS E CÓDIGOS - LÍNGUA PORTUGUESA / CSB</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454271">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15548898">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454269">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85779">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ZOOTECNIA / DCCAA</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1638">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / INGLÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1646">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14437853">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / CAMPUS V</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454252">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1657">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15505671">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / CAMPUS VII</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454320">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85776">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / DCCSST</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13583091">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA - PARFOR / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454267">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1645">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454263">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1631">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454294">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030282">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS / DCCHNST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030425">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS / DCCSST</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85763">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ADMINISTRAÇÃO / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85770">
+    <teach:courseTitle>CURSO DE LETRAS - ESPANHOL / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15546447">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1630">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454277">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85824">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS V</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454280">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14947385">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ESTUDOS AFRICANOS E AFRO-BRASILEIROS / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85811">
+    <teach:courseTitle>CURSO DE HISTÓRIA / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85809">
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS VII</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1656">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15548246">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11353892">
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15629935">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454322">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454244">
+    <teach:courseTitle>CURSO DE FILOSOFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15618592">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FILOSOFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15551428">
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85790">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454272">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCAÇÃO DO CAMPO / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11353886">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85800">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS BIOLOGICAS / DCCBS/CCBS</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454291">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454288">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454327">
+    <teach:courseTitle>CURSO DE CIENCIAS BIOLOGICAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1624">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454250">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15589016">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14604236">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA - / DCCBS/CCBS</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15529753">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85777">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS BIOLÓGICAS / DCCAA</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85821">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - GEOGRAFIA / CAMPUS VI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454313">
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15047093">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS / CAMPUS III</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/10816685">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIA E TECNOLOGIA / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454283">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15458361">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ENGENHARIA DA PESCA / CAMPUS V</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13583080">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15589059">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85761">
+    <teach:courseTitle>CURSO DE ENGENHARIA DE ALIMENTOS / DCCSST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454256">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1625">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1623">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15672322">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454262">
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454295">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1551">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1559">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85817">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15457863">
+    <teach:courseTitle>CURSO DE TURISMO / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85815">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - HISTÓRIA / CAMPUS VII</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85772">
+    <teach:courseTitle>CURSO DE CIENCIAS CONTABEIS / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85823">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMATICA / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15547380">
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85833">
+    <teach:courseTitle>CURSO DE AGRONOMIA / DCCAA</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11353896">
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85830">
+    <teach:courseTitle>CURSO DE QUIMICA INDUSTRIAL / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454284">
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454331">
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454304">
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1550">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85810">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE DIREITO / DCCSST</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1626">
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454258">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / PORTUGUÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454302">
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1647">
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85791">
+    <teach:courseTitle>CURSO DE COMUNICACÃO SOCIAL - JORNALISMO / DCCSST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/9138115">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454286">
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11353773">
+    <teach:courseTitle>CURSO DE CIÊNCIAS SOCIAIS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454309">
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85780">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE DIREITO / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454298">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13947399">
+    <teach:courseTitle>CURSO DE ENFERMAGEM / CAMPUS V</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454246">
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85813">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS - FRANCÊS / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1655">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1658">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15592174">
+    <teach:courseTitle>CURSO DE LETRAS / INGLÊS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1622">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1629">
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85785">
+    <teach:courseTitle>CURSO DE ENGENHARIA ELÉTRICA / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15630096">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1555">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85818">
+    <teach:courseTitle>CURSO DE TURISMO / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454321">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11353754">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS SOCIAIS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15547493">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMÁTICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15592208">
+    <teach:courseTitle>CURSO DE LETRAS / INGLÊS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454276">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1557">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15592004">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / INGLÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454306">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85827">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FARMÁCIA / DCCBS/CCBS</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14553665">
+    <teach:courseTitle>CURSO DE FILOSOFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454303">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1560">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15610741">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85807">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - HISTÓRIA / CAMPUS V</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454319">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15528402">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454279">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454282">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1627">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1659">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11548672">
+    <teach:courseTitle>CURSO DE LINGUAGENS E CÓDIGOS - MÚSICA / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85796">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS SOCIAIS / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15025963">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FILOSOFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1554">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85822">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE SERVIÇO SOCIAL / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454248">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15592238">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / INGLÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1553">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/16822859">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ENGENHARIA DA COMPUTAÇÃO / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030505">
+    <teach:courseTitle>CURSO DE LINGUAGENS E CÓDIGOS / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85758">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS ECONÔMICAS / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85789">
+    <teach:courseTitle>CURSO DE ENFERMAGEM / DCCBS/CCBS</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/11534159">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIA E TECNOLOGIA / CAMPUS BALSAS</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85795">
+    <teach:courseTitle>CURSO DE TEATRO / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85797">
+    <teach:courseTitle>CURSO DE ENFERMAGEM / DCCSST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14438460">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS - PORTUGUÊS / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454329">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85798">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454324">
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454251">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FILOSOFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14546335">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FILOSOFIA LICENCIATURA - EAD / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/16822856">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ENGENHARIA MECÂNICA / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454314">
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030493">
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85778">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / DCCBS/CCBS</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1654">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454255">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85783">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE ODONTOLOGIA / DCCBS/CCBS</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12125250">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MEDICINA / CAMPUS V</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454249">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454318">
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15463683">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/14560872">
+    <teach:courseTitle>CURSO DE LETRAS/LIBRAS / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454315">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1653">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1561">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15629975">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE GEOGRAFIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15588520">
+    <teach:courseTitle>CURSO DE EDUCACAO FISICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1652">
+    <teach:courseTitle>CURSO DE EDUCAÇÃO FÍSICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85832">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE COMUNICACAO SOCIAL - RÁDIO E TV / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454316">
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454307">
+    <teach:courseTitle>CURSO DE HISTORIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85814">
+    <teach:courseTitle>CURSO DE MEDICINA / DCCBS/CCBS</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1558">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/16416422">
+    <teach:courseTitle>CURSO DE ENGENHARIA CIVIL / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454278">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454259">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS - PORTUGUÊS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/16037794">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS - BIOLOGIA / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454254">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85820">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PSICOLOGIA / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1637">
+    <teach:courseTitle>CURSO DE HISTÓRIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454312">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15047094">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS / CAMPUS III</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15805906">
+    <teach:courseTitle>CURSO DE LETRAS / ESPANHOL / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15592991">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HISTÓRIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85793">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS - INGLÊS / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85782">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MÚSICA / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85794">
+    <teach:courseTitle>CURSO DE ARTES VISUAIS / DCCH</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15158367">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HISTÓRIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85829">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE FILOSOFIA / DCCH</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85786">
+    <teach:courseTitle>CURSO DE COMUNICAÇÃO SOCIAL - RELAÇÕES PÚBLICAS / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85808">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE NUTRIÇÃO / DCCBS/CCBS</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85781">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / DCCSST</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85816">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE HOTELARIA / DCCSO</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13583085">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85812">
+    <teach:courseTitle>CURSO DE BIBLIOTECONOMIA / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/13720627">
+    <teach:courseTitle>CURSO DE ARTES VISUAIS / NEAD</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454270">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454266">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030327">
+    <teach:courseTitle>CURSO DE CIÊNCIAS NATURAIS / CAMPUS V</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454257">
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/15030457">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454285">
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85828">
+    <teach:courseTitle>CURSO DE OCEANOGRAFIA / DCCBS/CCBS</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454297">
+    <teach:courseTitle>CURSO DE MATEMATICA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454245">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85806">
+    <teach:courseTitle>CURSO DE CIÊNCIAS IMOBILIÁRIAS / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85787">
+    <teach:courseTitle>CURSO DE DESIGN / DCCET/CCET</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454292">
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/1552">
+    <teach:courseTitle>CURSO DE PEDAGOGIA / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454300">
+    <teach:courseTitle>CURSO DE CIENCIAS BIOLOGICAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85819">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE DESENHO INDUSTRIAL / DCCET/CCET</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454332">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85775">
+    <teach:courseTitle>CURSO DE CIÊNCIAS HUMANAS - SOCIOLOGIA / CSB</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85804">
+    <teach:courseTitle>CURSO DE COMUNICACAO SOCIAL - JORNALISMO / DCCSO</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/85802">
+    <teach:courseTitle>CURSO DE CIENCIAS CONTABEIS / DCCSST</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454261">
+    <teach:courseTitle>CURSO DE LETRAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12454317">
+    <teach:courseTitle>CURSO DE CIENCIAS EXATAS / ASEI</teach:courseTitle>
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lud.ufma.br/course/12125248">
+    <rdf:type rdf:resource="http://linkedscience.org/teach/ns#Course"/>
+    <teach:courseTitle>CURSO DE MEDICINA / DCCSST</teach:courseTitle>
+  </rdf:Description>
+</rdf:RDF>
