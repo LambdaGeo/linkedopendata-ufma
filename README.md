@@ -27,3 +27,8 @@ FILTER regex(?interesse_orientador, "História")
 }
 limit 20
 ```
+
+vagrant
+
+sudo pacman -S linux46-virtualbox-host-modules
+sudo /sbin/rcvboxdrv setup

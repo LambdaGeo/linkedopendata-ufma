@@ -17,38 +17,104 @@ package {
 }
 
 exec {"apps_wget":
-            command => '/usr/bin/wget https://www-eu.apache.org/dist/jena/binaries/apache-jena-fuseki-3.10.0.tar.gz -O /tmp/apache-jena-fuseki.tar.gz',
-            unless  => "/usr/bin/test -f /tmp/apache-jena-fuseki.tar.gz",
+            command => '/usr/bin/wget -P /usr/local https://www-eu.apache.org/dist/jena/binaries/apache-jena-fuseki-3.12.0.tar.gz',
+            unless  => "/usr/bin/test -f /usr/local/apache-jena-fuseki-3.12.0.tar.gz",
             require => [ Package["wget"] ],
     }
 
 exec {"fuseki_untar":
-            command => "/bin/tar -xzvf /tmp/apache-jena-fuseki.tar.gz -C /usr/local",
-            unless  => "/usr/bin/test -f /usr/local/apache-jena-fuseki",
+            command => "/bin/tar -xzvf /usr/local/apache-jena-fuseki-3.12.0.tar.gz -C /usr/local",
+            unless  => "/usr/bin/test -f /usr/local/apache-jena-fuseki-3.12.0",
     }
 
+file { 'cria_diretorio_rdf':
+    ensure => directory,
+    path   => '/usr/local/apache-jena-fuseki-3.12.0/rdf',
+    require => Exec['fuseki_untar']  
+  }
 
-exec {"app_ln":
-    command => "/bin/ln -s /usr/local/apache-jena-fuseki-3.10.0/fuseki /etc/init.d/fuseki",
-    unless => "/usr/bin/test -f /etc/init.d/fuseki"
+
+exec {"baixar_rdf":
+            command => '/usr/bin/curl -X GET "https://dados-ufma.herokuapp.com/api/v01/docente/?subunidade=1396" -H  "accept: application/xml" > /usr/local/apache-jena-fuseki-3.12.0/rdf/docente.rdf',
+            require => File['cria_diretorio_rdf'],
+    }
+
+file { 'cria_diretorio_base':
+    ensure => directory,
+    path   => '/usr/local/apache-jena-fuseki-3.12.0/run',
+    require => Exec['fuseki_untar']  
+  }
+
+
+file { 'shiroini':
+    ensure => file,
+    path   => '/usr/local/apache-jena-fuseki-3.12.0/run/shiro.ini',
+    source => "/vagrant/shiro.ini",
+    require => Exec['fuseki_untar']  
 }
 
+exec {"permissao":
+            command => '/bin/chown vagrant:vagrant run',
+            require => File['cria_diretorio_base'],
+    }
 
+file { 'configttl':
+    ensure => file,
+    path   => '/usr/local/apache-jena-fuseki-3.12.0/run/config.ttl',
+    source => "/vagrant/config.ttl",
+    require => File['shiroini'] ,
+}
 
 service { "fuseki":
   ensure  => running,
   enable => true,
   hasrestart => true,
-  start   => "/etc/init.d/fuseki start",
-  stop    => "/etc/init.d/fuseki stop",
-  restart =>  "/etc/init.d/fuseki restart",
-  require => Exec['app_ln'],
-   subscribe => File["/usr/local/apache-jena-fuseki-3.10.0/run/configuration/config.ttl","/usr/local/apache-jena-fuseki-3.10.0/run/shiro.ini"],
+  start   => "/usr/local/apache-jena-fuseki-3.12.0/fuseki start",
+  stop    => "/usr/local/apache-jena-fuseki-3.12.0/fuseki stop",
+  restart =>  "/usr/local/apache-jena-fuseki-3.12.0fuseki restart",
+  require => File['configttl'],
 }
 
 
 
 #configurando
+
+/*
+exec {"app_ln":
+    command => "/bin/ln -s /usr/local/apache-jena-fuseki-3.12.0/fuseki /etc/init.d/fuseki",
+    unless => "/usr/bin/test -f /etc/init.d/fuseki"
+}
+*/
+
+/*
+
+
+
+
+
+exec {"fuseki_start":
+    environment => [ "FUSEKI_HOME=/usr/local/apache-jena-fuseki-3.12.0/" ] ,
+    command => "/usr/local/apache-jena-fuseki-3.12.0/fuseki-server --update --mem /ds &",
+    #command =>  "/bin/bash -c 'cd /usr/local/apache-jena-fuseki-3.12.0/; ./fuseki-server --config=/vagrant/fuseki.ttl'"
+    require => Exec['fuseki_untar']  
+}
+
+
+
+
+file { 'cria_diretorio_run':
+    ensure => directory,
+    path   => '/usr/local/apache-jena-fuseki-3.12.0/run',
+    require => Exec['fuseki_untar']  
+  }
+
+exec {"criar_diretorio":
+            command => "/bin/mkdir /usr/local/apache-jena-fuseki-3.12.0/rdf",
+            require => [ Exec["fuseki_untar"] ],
+    }
+
+/usr/local/apache-jena-fuseki-3.12.0
+#subscribe => File["/usr/local/apache-jena-fuseki-3.10.0/run/configuration/config.ttl","/usr/local/apache-jena-fuseki-3.10.0/run/shiro.ini"],
 
 file { 'cria_diretorio_base':
     ensure => directory,
@@ -80,7 +146,7 @@ file { 'shiroini':
 }
 
 
-
+*/
 
 /*
 
@@ -112,11 +178,6 @@ exec {"configura":
 
 
 /*
-exec {"fuseki_start":
-    environment => [ "FUSEKI_HOME=/usr/local/apache-jena-fuseki-3.10.0/" ] ,
-    #command => "/usr/local/apache-jena-fuseki-3.10.0/fuseki-server --update --mem /ds",
-    command =>  "/bin/bash -c 'cd /usr/local/apache-jena-fuseki-3.10.0/; ./fuseki-server --config=/vagrant/fuseki.ttl'"
-}
 
 exec {"fuseki_home":
     command => "/bin/bash -c \"export FUSEKI_HOME=/usr/local/apache-jena-fuseki-3.10.0\"",

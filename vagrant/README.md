@@ -54,3 +54,8 @@ vagrant reload
  
  erro com /dev/vboxdrv does not exist
  dpkg-reconfigure virtualbox-dkms
+
+
+## docker
+
+docker system prune -a
