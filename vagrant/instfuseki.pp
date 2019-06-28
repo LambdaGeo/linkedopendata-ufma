@@ -76,6 +76,7 @@ service { "fuseki":
 } ~>
 exec {"import_rdf":
     command => "/usr/local/apache-jena-fuseki-3.12.0/bin/s-put http://localhost:3030/ds/data default /usr/local/apache-jena-fuseki-3.12.0/rdf/docente.rdf",
+    require => Service["fuseki"]
 }
 
 
