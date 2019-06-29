@@ -60,8 +60,8 @@ COPY shiro.ini /jena-fuseki/shiro.ini
 
 RUN mkdir -p $FUSEKI_HOME/rdf
 COPY data/rdf /jena-fuseki/rdf
-RUN curl -X GET "https://dados-ufma.herokuapp.com/api/v01/docente/" -H  "accept: application/xml" > /jena-fuseki/rdf/docentes.rdf
-RUN curl -X GET "https://dados-ufma.herokuapp.com/api/v01/subunidade/" -H  "accept: application/xml" > /jena-fuseki/rdf/subunidade.rdf
+#RUN curl -X GET "https://dados-ufma.herokuapp.com/api/v01/docente/" -H  "accept: application/xml" > /jena-fuseki/rdf/docentes.rdf
+#RUN curl -X GET "https://dados-ufma.herokuapp.com/api/v01/subunidade/" -H  "accept: application/xml" > /jena-fuseki/rdf/subunidade.rdf
 
 
 COPY docker-entrypoint.sh /
