@@ -54,7 +54,7 @@ done
 echo "importando"
 #curl -X GET "https://dados-ufma.herokuapp.com/api/v01/docente/?subunidade=1396" -H  "accept: application/xml" > /jena-fuseki/rdf/docentes.rdf
 #/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/cursos.rdf
-#/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/docente.rdf
+/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/docente.rdf
 /jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/subunidade.rdf
 echo "importado"
 
