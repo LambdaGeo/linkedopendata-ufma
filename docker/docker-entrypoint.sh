@@ -56,7 +56,7 @@ echo "importando"
 #/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/cursos.rdf
 /jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/subunidade.rdf
 while : ; do sleep 10s; done
-/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/docente.rdf
+/jena-fuseki/bin/s-put http://localhost:$PORT/ds/data default /jena-fuseki/rdf/docentes.rdf
 echo "importado"
 
 
