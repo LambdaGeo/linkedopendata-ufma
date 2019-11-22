@@ -39,6 +39,6 @@ docker-compose up
 
 ## heroku
 
- heroku container:login
- heroku container:push web --app linked-ufma
-heroku container:release web --app linked-ufma
+ - heroku container:login
+ - heroku container:push web --app linked-ufma
+ - heroku container:release web --app linked-ufma
