@@ -1,34 +1,44 @@
-# ludufma
+# Fuseki
 
+Apache [Jena Fuseki](https://jena.apache.org/documentation/fuseki2/index.html) with SeCo extensions.
 
-A linguagem SPARQL permite realizar buscas complexas com apenas uma única requisição, diferentemente de uma arquitetura orientada a recurso, como o REST. Nessa arquitetura cada entidade representa um recurso e tem o seu endpoint proprio. Considere então a seguinte consulta:
+Available also in Docker Hub: [secoresearch/fuseki](https://hub.docker.com/r/secoresearch/fuseki/).
 
-Dado uma base de dados de monografia, me retorne o título, nome do discente, nome do orientador, curriculo lattes do orientador e o nome do curso. De todos os orientadores que tem como área de interesse "História".
+The Fuseki administrative interface is accessible at `http://localhost:3030` with the admin password defined as `docker run` parameter (see `Run` below).
+
+The container has a preconfigured service/dataset `ds` that has a Lucene [text index](https://jena.apache.org/documentation/query/text-query.html) and [spatial index](https://jena.apache.org/documentation/query/spatial-query.html) (see [assembler.ttl](https://github.com/SemanticComputing/fuseki-docker/blob/master/assembler.ttl) for configuration).
+
+The data can be accessed via the endpoints:
+* [SPARQL 1.1 query](https://www.w3.org/TR/sparql11-query/): `http://localhost:3030/ds/sparql`
+* [Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/) (read-only): `http://localhost:3030/ds/data`
+
+The container includes Jena tdbloader, textindexer, spatialindexer, and tdbstats scripts for loading RDF data into TDB model. See the [Dockerfile of the congress-legislators dataset](https://github.com/SemanticComputing/congress-legislators/blob/master/Dockerfile) for an example.
+
+**Note on running in OpenShift**, if you use this image as a parent image (e.g. use your own Dockerfile to load the data inside the image using TDBLOADER): as containers are ran as an arbitrary user, you'll have to ensure the write permission on the TDB and index directories, e.g. by adding the following lines in your Dockerfile after the tdbloader and indexing commands:
+
 ```
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX ns: <http://linkedscience.org/teach/ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-SELECT ?titulo ?nome_discente ?nome_orientador ?interesse_orientador ?nome_curso
-WHERE
-{
-?m dc:title ?titulo.
-?m dc:creator ?url_discente.
-?m dc:contributor ?url_docente.
-?url_discente foaf:name ?nome_discente.
-?url_discente foaf:member ?url_curso.
-?url_curso ns:courseTitle ?nome_curso.
-?url_docente foaf:name ?nome_orientador.
-?url_docente foaf:interest ?interesse_orientador.
-FILTER regex(?interesse_orientador, "História")
-
-}
-limit 20
+# Set permissions to allow fuseki to run as an arbitrary user
+RUN chgrp -R 0 $FUSEKI_BASE \
+    && chmod -R g+rwX $FUSEKI_BASE
 ```
 
-vagrant
+## Build
 
-sudo pacman -S linux46-virtualbox-host-modules
-sudo /sbin/rcvboxdrv setup
+`docker build --squash -t secoresearch/fuseki .`
+
+## Run
+
+`docker run --rm -it -p 3030:3030 --name fuseki -e ADMIN_PASSWORD=[PASSWORD] secoresearch/fuseki`
+
+The same command can be used to pull and run the container from Docker Hub (no need to build the image first).
+
+## docker compose
+
+docker-compose build
+docker-compose up
+
+## heroku
+
+ - heroku container:login
+ - heroku container:push web --app linked-ufma
+ - heroku container:release web --app linked-ufma
